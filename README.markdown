@@ -1,4 +1,4 @@
-Forcepoint Data Engineer Technical Exam
+Forcepoint Data Engineer
 =======================================================
 
 Getting Started
@@ -75,15 +75,3 @@ Your script should perform the following on the raw files in the "source" folder
 4. (Optional) Basic analytic task: Compute basic summary stats. For each entity,
    compute number of messages sent and received and generate a new CSV that
    contains this information.
-
-Assessment
-----------
-
-Your solution will be assessed based on:
-
-* attention to detail
-* completion of the tasks
-* algorithm efficiency
-* code readability
-* adherence to common coding practices that best enable sharing, re-using, and
-  extending the code.
