@@ -1,0 +1,14 @@
+{
+   "timestamp": "<insert human readable here>",
+   "message identifier": "E57F1C0C-EFAC-4910-9AAA-1B8A943F46ED",
+   "sender": "phillip love",
+   "recipients": "jeffrey gossett|greg whiting",
+   "topic": "",
+   "mode": "email",
+   "attributes": [
+      {
+         "name": "number_of_recipients",
+         "value": 2
+      }
+   ]
+}
