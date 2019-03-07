@@ -6,7 +6,7 @@ Getting Started
 
 1. Work on your solution to the problem below locally.
 
-2. When you are satisfied with your results, email kenneth.flynn@forcepoint.com with a
+2. When you are satisfied with your results, email vivekkumar.bitsindri@gmail.com with a
    zipped copy of your solution directory structure. **Don't include any files generated 
    by your solution**. We should be able to run any scripts you submit to generate output.
 
